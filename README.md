@@ -1,14 +1,14 @@
 # Installation
 
 1. IDE and Compiler
-...Compiler_And_IDE/mcu8051ide-1.4.9-setup.exe
-...Compiler_And_IDE/sdcc-3.5.0-setup.exe
+*Compiler_And_IDE/mcu8051ide-1.4.9-setup.exe
+*Compiler_And_IDE/sdcc-3.5.0-setup.exe
 
 2. UART Dongle Driver
-...UART_Dongle_Driver/PL2303/PL2303_Prolific_DriverInstaller_v1180B.zip
+*UART_Dongle_Driver/PL2303/PL2303_Prolific_DriverInstaller_v1180B.zip
 
 3. Programming(Flashing) Software
-...Programmer/stc-isp-15xx-v6.86D.exe
+*Programmer/stc-isp-15xx-v6.86D.exe
 
 
 # UART Addapted to Board Connection
