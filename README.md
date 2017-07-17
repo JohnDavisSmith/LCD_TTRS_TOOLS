@@ -1,21 +1,21 @@
 # Installation
 
 1. IDE and Compiler
-..1. Compiler_And_IDE/mcu8051ide-1.4.9-setup.exe
-..2. Compiler_And_IDE/sdcc-3.5.0-setup.exe
+..* Compiler_And_IDE/mcu8051ide-1.4.9-setup.exe
+..* Compiler_And_IDE/sdcc-3.5.0-setup.exe
 
 2. UART Dongle Driver
-..1. UART_Dongle_Driver/PL2303/PL2303_Prolific_DriverInstaller_v1180B.zip
+..* UART_Dongle_Driver/PL2303/PL2303_Prolific_DriverInstaller_v1180B.zip
 
 3. Programming(Flashing) Software
-..1. Programmer/stc-isp-15xx-v6.86D.exe
+..* Programmer/stc-isp-15xx-v6.86D.exe
 
 
 # UART Addapted to Board Connection
 ![Screenshot](UART_Adapter_Connection.jpg)
 
 
-# Compilling an Programming
+# Compilling and Programming
 1. Download code from here [https://github.com/JohnDavisSmith/LCD_TTRS](https://github.com/JohnDavisSmith/LCD_TTRS).
 
 2. In the MCU 8051 IDE open the project file found under the "Code/LEDBlink(0).mcu8051ide" in the downloaded sources:
@@ -27,7 +27,7 @@
 4. The successful compilation will produce a file called "LEDBlink.hex".
 
 5. Configure the programming software:
-![Screenshot]()
+![Screenshot](Configure_Programming_Software.jpg)
 
 6. Open the file from step 4) via the programming software:
 ![Screenshot](Programming_Software_Open_Code_File.jpg)
